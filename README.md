@@ -8,4 +8,4 @@ I am not the original author of the color scheme, just customized a little bit. 
 
 
 ## Disclaimer 2
-I am not the original author of the Menlo font. I downloaded font from [here](https://www.cufonfonts.com/font/menlo) and ligaturized it using [this tool] (https://github.com/ToxicFrog/Ligaturizer)
+I am not the original author of the Menlo font. I downloaded font from [here](https://www.cufonfonts.com/font/menlo) and ligaturized it using [this tool](https://github.com/ToxicFrog/Ligaturizer)
